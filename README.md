@@ -1,4 +1,4 @@
-[![Tests](https://github.com/igalita/alfred-gleif-search/actions/workflows/tests.yml/badge.svg)](https://github.com/igalita/alfred-gleif-search/actions/workflows/tests.yml) 
+[![Tests](https://github.com/igalita/alfred-gleif-search/actions/workflows/tests.yml/badge.svg)](https://github.com/igalita/alfred-gleif-search/actions/workflows/tests.yml) [![Release](https://github.com/igalita/alfred-gleif-search/actions/workflows/release.yml/badge.svg)](https://github.com/igalita/alfred-gleif-search/actions/workflows/release.yml) 
 
 # An ultra-fast [GLEIF search](https://search.gleif.org) for [Alfred](https://www.alfredapp.com/)
 
