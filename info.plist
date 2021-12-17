@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>bundleid</key>
+	<string>com.igalita.gleif.search</string>
 	<key>category</key>
 	<string>Productivity</string>
 	<key>connections</key>
@@ -154,7 +156,7 @@
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
-	<string>GLEIF Search - COPY</string>
+	<string>GLEIF Search</string>
 	<key>objects</key>
 	<array>
 		<dict>
@@ -514,8 +516,6 @@
 		<key>quick_open</key>
 		<string>false</string>
 	</dict>
-	<key>variablesdontexport</key>
-	<array/>
 	<key>version</key>
 	<string>1.0.0</string>
 	<key>webaddress</key>
