@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "0f518d619b4433f9811ceeba62360d78",
+    "content-hash": "2b9f841df75cb88db5bb74ce64913325",
     "packages": [
         {
             "name": "guzzlehttp/guzzle",
@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/guzzle/guzzle.git",
-                "reference": "c1fd316f0a0f3325ed1e7cdbe61030418b868f9f"
+                "reference": "82ca75f0b1f130f018febdda29af13086da5dbac"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/guzzle/guzzle/zipball/c1fd316f0a0f3325ed1e7cdbe61030418b868f9f",
-                "reference": "c1fd316f0a0f3325ed1e7cdbe61030418b868f9f",
+                "url": "https://api.github.com/repos/guzzle/guzzle/zipball/82ca75f0b1f130f018febdda29af13086da5dbac",
+                "reference": "82ca75f0b1f130f018febdda29af13086da5dbac",
                 "shasum": ""
             },
             "require": {
@@ -51,12 +51,12 @@
                 }
             },
             "autoload": {
-                "psr-4": {
-                    "GuzzleHttp\\": "src/"
-                },
                 "files": [
                     "src/functions_include.php"
-                ]
+                ],
+                "psr-4": {
+                    "GuzzleHttp\\": "src/"
+                }
             },
             "notification-url": "https://packagist.org/downloads/",
             "license": [
@@ -129,7 +129,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2021-12-13T16:13:08+00:00"
+            "time": "2022-03-20T14:21:21+00:00"
         },
         {
             "name": "guzzlehttp/promises",
@@ -2441,7 +2441,6 @@
     "aliases": [],
     "minimum-stability": "dev",
     "stability-flags": {
-        "guzzlehttp/guzzle": 20,
         "joetannenbaum/alfred-workflow": 20,
         "phpunit/phpunit": 20
     },
@@ -2449,5 +2448,5 @@
     "prefer-lowest": false,
     "platform": [],
     "platform-dev": [],
-    "plugin-api-version": "2.1.0"
+    "plugin-api-version": "2.3.0"
 }
